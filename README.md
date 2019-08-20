@@ -24,9 +24,9 @@
 
 ## Visualizing for better understanding
 * Insert Image of People who have or not
-* ![](assets/README-e85ac3af.png)
+![](assets/README-e85ac3af.png)
 * explain
-* ![](assets/README-77f277f1.png)
+![](assets/README-77f277f1.png)
 * explain
 
 ## Numerous Models for best F1
