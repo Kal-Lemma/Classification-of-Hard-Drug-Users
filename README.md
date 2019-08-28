@@ -24,7 +24,7 @@
 
 ## Visualizing for better understanding
 * Insert Image of People who have or not
-![Hard Drug Users](assets/README-e85ac3af.png)
+![Screen Shot 2019-08-20 at 11.34.26 AM](assets/README-6e493bdc.png)
 * explain
 ![](assets/README-77f277f1.png)
 * explain
@@ -38,3 +38,5 @@
 ## HyperParameter Tuning
 * Used a randomized Gridsearch for classifier parameters, which seemed to not improve original top score.
 * XGBoost for Randomforest which managed to bring original RMSE of __0.406__, down to __0.334__ for our testing set.
+
+## Take aways
