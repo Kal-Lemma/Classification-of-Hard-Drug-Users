@@ -20,20 +20,19 @@
 
 ## Feature Selection
 * Used sklearn extra trees classifier for feature importance to indicate the top 10 performers in my interaction features
-* insert image of results
+* * Using inbuilt class feature_importances of tree based classifiers to see the top 10 performers: Cocaine leading the charge.
+![Screen Shot 2019-08-20 at 11.35.15 AM](assets/README-5cbb1b41.png)
 
 ## Visualizing for better understanding
-* Insert Image of People who have or not
-![Screen Shot 2019-08-20 at 11.34.26 AM](assets/README-6e493bdc.png)
-* explain
-![](assets/README-77f277f1.png)
-* explain
+* ![Screen Shot 2019-08-20 at 11.34.26 AM](assets/README-6e493bdc.png)
+* ![Screen Shot 2019-08-20 at 11.34.46 AM](assets/README-0ddf6a6b.png)
+* The second picture shows that nearly half the people who have taken Hard drugs (Heroin, Ketamine, or Crack), and also went to college. Seems that it may be less likely to say no to drugs, without a college education.
 
 ## Numerous Models for best F1
-* Insert image of all Results
-* explain which is best and why
-* insert image of confusion matrix
-* explain
+![Screen Shot 2019-08-20 at 11.46.28 AM](assets/README-2b4924fd.png)
+* Random Forest had the best Performance with F1 accuracy score.
+![Screen Shot 2019-08-20 at 11.46.50 AM](assets/README-332db5e3.png)
+* This Confusion Matrix shows the number of type I and II errors the model achieved. It managed to incorrectly classify 29 individuals as Hard Drug Users, when they never have. 
 
 ## HyperParameter Tuning
 * Used a randomized Gridsearch for classifier parameters, which seemed to not improve original top score.
