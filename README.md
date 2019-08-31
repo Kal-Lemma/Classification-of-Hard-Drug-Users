@@ -7,7 +7,7 @@
 
 ## Exploratory Data Analysis
 * Assigned ‘Labels’, turning values numeric, had no Missing values
-* Removing Bias from liars in the ‘Semer’ column (A Fake Drug used in the study to catch liars)
+* Removing Bias from liars in the ‘Semer’ column (A Fake Drug used in the study to catch dishonesty)
 * Cleaned and created dummy variables for Gender and Lived in the U.K. since 55% of the dataset are from the United Kingdom.
 
 ## Feature Engineering
@@ -31,8 +31,8 @@
 ## Numerous Models for best F1
 ![Screen Shot 2019-08-20 at 11.46.28 AM](assets/README-2b4924fd.png)
 * Random Forest had the best Performance with F1 accuracy score.
-![Screen Shot 2019-08-20 at 11.46.50 AM](assets/README-332db5e3.png)
-* This Confusion Matrix shows the number of type I and II errors the model achieved. It managed to incorrectly classify 29 individuals as Hard Drug Users, when they never have. 
+![](assets/README-332db5e3.png)
+* This Confusion Matrix shows the number of type I and II errors the model achieved. It managed to incorrectly classify 29 individuals as Hard Drug Users, when they never have.
 
 ## HyperParameter Tuning
 * Used a randomized Gridsearch for classifier parameters, which seemed to not improve original top score.
