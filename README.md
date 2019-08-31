@@ -31,7 +31,7 @@
 ## Numerous Models for best F1
 ![Screen Shot 2019-08-20 at 11.46.28 AM](assets/README-2b4924fd.png)
 * Random Forest had the best Performance with F1 accuracy score.
-![Screen Shot 2019-08-20 at 11.46.50 AM](assets/README-332db5e3.png)
+![Screen Shot 2019-08-20 at 11.46.50 AM](https://github.com/klemma14/Classification-of-Hard-Drug-Users/blob/master/Screen%20Shot%202019-08-20%20at%2011.46.50%20AM.png)
 * This Confusion Matrix shows the number of type I and II errors the model achieved. It managed to incorrectly classify 29 individuals as Hard Drug Users, when they never have.
 
 ## HyperParameter Tuning
