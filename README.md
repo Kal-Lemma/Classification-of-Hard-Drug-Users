@@ -21,11 +21,11 @@
 ## Feature Selection
 * Used sklearn extra trees classifier for feature importance to indicate the top 10 performers in my interaction features
 * * Using inbuilt class feature_importances of tree based classifiers to see the top 10 performers: Cocaine leading the charge.
-![Screen Shot 2019-08-20 at 11.35.15 AM](assets/README-5cbb1b41.png)
+![Screen Shot 2019-08-20 at 11.35.15 AM](https://github.com/klemma14/Classification-of-Hard-Drug-Users/blob/master/Data%20Visuals%20/Screen%20Shot%202019-08-20%20at%2011.35.15%20AM.png)
 
 ## Visualizing for better understanding
-* ![Screen Shot 2019-08-20 at 11.34.26 AM](assets/README-6e493bdc.png)
-* ![Screen Shot 2019-08-20 at 11.34.46 AM](assets/README-0ddf6a6b.png)
+* ![Screen Shot 2019-08-20 at 11.34.26 AM](https://github.com/klemma14/Classification-of-Hard-Drug-Users/blob/master/Data%20Visuals%20/Screen%20Shot%202019-08-20%20at%2011.34.26%20AM.png)
+* ![Screen Shot 2019-08-20 at 11.34.46 AM](https://github.com/klemma14/Classification-of-Hard-Drug-Users/blob/master/Data%20Visuals%20/Screen%20Shot%202019-08-20%20at%2011.34.46%20AM.png)
 * The second picture shows that nearly half the people who have taken Hard drugs (Heroin, Ketamine, or Crack), and also went to college. Seems that it may be less likely to say no to drugs, without a college education.
 
 ## Numerous Models for best F1
